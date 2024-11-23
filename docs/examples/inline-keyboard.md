@@ -11,7 +11,7 @@ import (
 	"log"
 	"os"
 
-	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
+	tgbotapi "module github.com/Salehisaac/telegram-bot-api-rasa"
 )
 
 var numericKeyboard = tgbotapi.NewInlineKeyboardMarkup(
