@@ -1,3 +1,3 @@
-module github.com/Salehisaac/telegram-bot-api-rasa/v2
+module github.com/Salehisaac/telegram-bot-api-rasa
 
 go 1.16
